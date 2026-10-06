@@ -1,0 +1,6 @@
+scenario,demand_change_percent,forecast_demand,scenario_demand,additional_demand
+Baseline,0.0,947160,947160.0,0.0
+Demand +10%,10.0,947160,1041876.0,94716.0
+Demand +15%,15.0,947160,1089234.0,142074.0
+Demand +20%,20.0,947160,1136592.0,189432.0
+Demand -10%,-10.0,947160,852444.0,-94716.0
